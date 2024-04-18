@@ -6,13 +6,12 @@ export default [
       "Arithmetic Logic Unit.",
       "Array Logic Unit.",
       "Application Logic Unit.",
-      "None of above.",
     ],
   },
   {
     id: "q2",
     text: "The brain of any computer system is",
-    answers: ["CPU.", "ALU.", "Memory.", "Control Unit.", "None of above."],
+    answers: ["CPU.", "ALU.", "Memory.", "Control Unit."],
   },
   {
     id: "q3",
@@ -22,7 +21,6 @@ export default [
       "Technological advancement",
       "Scientific code",
       "Object Oriented Programming",
-      "None of the above",
     ],
   },
   {
@@ -48,35 +46,17 @@ export default [
   {
     id: "q7",
     text: "Which of the following is valid storage type?",
-    answers: [
-      "Pen Drive",
-      "CPU",
-      "Keyboard",
-      "Track Ball",
-      "None of the above",
-    ],
+    answers: ["Pen Drive", "CPU", "Keyboard", "Track Ball"],
   },
   {
     id: "q8",
     text: "The section of the CPU that is responsible for performing mathematical operations",
-    answers: [
-      "ALU.",
-      "Memory.",
-      "Register Unit.",
-      "Control Unit.",
-      "None of the above",
-    ],
+    answers: ["ALU.", "Memory.", "Register Unit.", "Control Unit."],
   },
   {
     id: "q9",
     text: "Any storage device added to computer beyond the immediately usable main storage is known as:",
-    answers: [
-      "Floppy disk",
-      "Hard Disk",
-      "Backing store",
-      "Punched Card",
-      "None of the above",
-    ],
+    answers: ["Floppy disk", "Hard Disk", "Backing store", "Punched Card"],
   },
   {
     id: "q10",
@@ -86,7 +66,6 @@ export default [
       "Algorithm.",
       "Flowchart.",
       "Utility Program.",
-      "None of the above",
     ],
   },
 ];
