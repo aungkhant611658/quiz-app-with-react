@@ -17,7 +17,6 @@ export default [
     id: "q3",
     text: "What difference does the 5th generation computer have from other generation computers?",
     answers: [
-      "All of the above",
       "Technological advancement",
       "Scientific code",
       "Object Oriented Programming",
